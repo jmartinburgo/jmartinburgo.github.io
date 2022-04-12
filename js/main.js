@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
-      typeSpeed: 100,
+      strings: ["Juan Burgo ", "Data Analyst", "Data Scientist", "Industrial Engineer", "Business Administrator"],
+      typeSpeed: 50,
       loop: true,
     });
   });
